@@ -1,6 +1,8 @@
 BEM Components Library
 ======================
 
+[![Join the chat at https://gitter.im/awinogradov/bem-components](https://badges.gitter.im/awinogradov/bem-components.svg)](https://gitter.im/awinogradov/bem-components?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![GitHub Release](https://img.shields.io/github/release/bem/bem-components.svg?style=flat)](https://github.com/bem/bem-components/releases)
 [![Build Status](https://img.shields.io/travis/bem/bem-components/v2.svg?style=flat)](https://travis-ci.org/bem/bem-components)
 [![Coverage Status](https://img.shields.io/coveralls/bem/bem-components/v2.svg?style=flat)](https://coveralls.io/r/bem/bem-components?branch=v2)
